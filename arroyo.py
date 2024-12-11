@@ -10,7 +10,7 @@ while user_input != 4:
     user_input = int(input("Choose your option: "))
     
     if user_input == 1:
-        print("Age: 199")
+        print("Age: 19")
         print("Birthday: January 1, 2005")
         print("Location: Pasay City")
         print("Hobbies: Cycling, reading, playing pc games")
