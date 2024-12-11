@@ -1,4 +1,3 @@
-
 def lazaro_menu():
     user_input = 0    
     while user_input != 4:
