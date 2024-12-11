@@ -13,7 +13,7 @@ while user_input != 4:
         print("===============================================================")
         print("Age: 20")
         print("Birthday: September 18, 2004")
-        print("location: Guiho St. Creekland Hagonoy, Taguig City")
+        print("Location: Guiho St. Creekland Hagonoy, Taguig City")
         print("Hobbies: Ml, Cycling, Playing lol")
         print("Favorite foods: Bicol express, sinigang na baboy, adobong baboy ")
         print("================================================================")
