@@ -22,5 +22,6 @@ elif user_input == 2:
 elif user_input == 3:
     #teammates comments
     print("To be added")
+    print("This code has been reviewed by John Matthew Arroyo")
 else:
     pass 
