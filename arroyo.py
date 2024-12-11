@@ -23,7 +23,7 @@ while user_input != 4:
         print("-develop myself physically and spiritually through exercise and bible reading")
         
     elif user_input == 3:
-        pass #Teammate comments will go here
+        print("This code has been reviewed by Franco Alfonso Lazaro")
         
 
 
