@@ -11,11 +11,11 @@ while user_input != 4:
 
     if user_input == 1:
         print("===============================================================")
-        print("Age: 18")
+        print("Age: 20")
         print("Birthday: September 18, 2004")
         print("location: Guiho St. Creekland Hagonoy, Taguig City")
         print("Hobbies: Ml, Cycling, Playing lol")
-        print("Favorites food: Bicol express, sinigang na baboy, adobong baboy ")
+        print("Favorite foods: Bicol express, sinigang na baboy, adobong baboy ")
         print("================================================================")
 
     elif user_input == 2:
