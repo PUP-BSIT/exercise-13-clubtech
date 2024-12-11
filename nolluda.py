@@ -27,4 +27,4 @@ while user_input != 4:
     
     elif user_input == 3:
         print("This code has been reviewed by Franco Alfonso Lazaro ")
-        print("") 
+        print("This code has been reviewed by John Matthew Arroyo") 
