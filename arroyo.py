@@ -1,4 +1,4 @@
-def menu():
+def arroyo_menu():
     while True:
         print("---------------------------------------------")
         print("Greetings, John Matthew")
@@ -37,4 +37,4 @@ def comments():
     print("This code has been reviewed by Franco Alfonso Lazaro")
     print("Greetings from John Carlo I. Nolluda")
 
-menu()
+arroyo_menu()
